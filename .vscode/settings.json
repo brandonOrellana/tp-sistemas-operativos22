@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "hello.h": "c",
+        "consola.h": "c",
+        "log.h": "c",
+        "string.h": "c",
+        "config.h": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "valgrind.h": "c",
+        "list.h": "c",
+        "utils.h": "c",
+        "fcntl.h": "c",
+        "hellostatic.h": "c",
+        "unistd.h": "c",
+        "structs.h": "c",
+        "socket.h": "c",
+        "signum.h": "c",
+        "main.h": "c",
+        "gestionpcb.h": "c",
+        "kernel.h": "c",
+        "configuracion.h": "c"
+    }
+}
